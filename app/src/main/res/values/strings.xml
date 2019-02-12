@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">themoviedb</string>
+    <string name="app_name">TheMovieDb</string>
+
+    <string name="similar_movies">Filmes Similares</string>
+    <string name="movies">Filmes</string>
+    <string name="categories">Categorias</string>
+    <string name="no_results">Nenhum resultado foi encontrado para\n \"%s\"</string>
+    <string name="search">Busca</string>
+
 </resources>
